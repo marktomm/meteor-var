@@ -18,3 +18,16 @@ ecmascript              # Enable ECMAScript2015+ syntax in app code
 
 autopublish             # Publish all data to the clients (for prototyping)
 insecure                # Allow all DB writes from clients (for prototyping)
+useraccounts:flow-routing
+useraccounts:bootstrap
+theara:flow-router-breadcrumb
+tap:i18n
+nemo64:bootstrap
+aldeed:autoform
+accounts-password
+aldeed:collection2
+aldeed:template-extension
+kadira:flow-router
+kadira:blaze-layout
+matb33:collection-hooks
+meteorhacks:ssr
